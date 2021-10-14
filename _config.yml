@@ -1,13 +1,13 @@
 # 头部菜单，title: link
 menu:
-  首页: /
+  首页: https://lppppppf.github.io/momo/
   分类: /categories
   标签: /tags
-  归档: /archives  
+  归档: /archives
   关于: /about
 
 # 是否显示目录
-TOC: false
+TOC: true
 
 # 是否自动播放音乐
 autoplay: false
@@ -21,9 +21,12 @@ mp3:
 welcome_cover: /img/welcome-cover.jpg
 
 # 默认文章封面图（随机调用,支持外链）
-cover: 
+cover:
   - /img/cover.jpg
-  - /img/welcome-cover.jpg
+  - /img/cover-02.jpg
+  - /img/cover-03.jpg
+  - /img/cover-04.jpg
+  - /img/cover-05.jpg
 
  
 # 是否使用mathjax
@@ -52,7 +55,7 @@ links:
 # 备案
 beian: 
     # 是否显示备案信息
-    enable: true
+    enable: false
     # 是否在主页面最底下显示备案信息(虽然丑，但是完全满足规定要求)
     enableFooter: false
     # 备案号
