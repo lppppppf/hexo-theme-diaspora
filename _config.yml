@@ -1,6 +1,6 @@
 # 头部菜单，title: link
 menu:
-  首页: https://lppppppf.github.io/momo/
+  首页: https://qiaoqiao.netlify.app/
   分类: /categories
   标签: /tags
   归档: /archives
@@ -39,7 +39,7 @@ scrollbar: true
 # 本地搜索,请将索引文件放在网站根目录,或修改主题js文件的path值
 local_search:
     # 是否启用
-    enable: false
+    enable: true
 
 # 是否显示 一言(hitokoto)
 hitokoto: true
@@ -85,7 +85,7 @@ gitalk:
     distractionFreeMode: false
 
 # 网站关键字
-keywords: Fechin
+keywords: qiaomiao
 
 # 要使用google_analytics进行统计的话，这里需要配置ID
 google_analytics: 
