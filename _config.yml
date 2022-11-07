@@ -1,10 +1,10 @@
 # 头部菜单，title: link
 menu:
-  首页: https://qiaoqiao.netlify.app/
-  分类: /categories
-  标签: /tags
-  归档: /archives
-  关于: /about
+#   首页: https://qiaoqiao.netlify.app/
+#   分类: /categories
+#   标签: /tags
+  时间轴: /archives
+#   关于: /about
 
 # 是否显示目录
 TOC: true
@@ -22,11 +22,8 @@ welcome_cover: /img/welcome-cover.jpg
 
 # 默认文章封面图（随机调用,支持外链）
 cover:
-  - /img/cover.jpg
-  - /img/cover-02.jpg
-  - /img/cover-03.jpg
-  - /img/cover-04.jpg
-  - /img/cover-05.jpg
+  - /img/cake.png
+
 
  
 # 是否使用mathjax
@@ -42,15 +39,15 @@ local_search:
     enable: true
 
 # 是否显示 一言(hitokoto)
-hitokoto: true
+hitokoto: false
 
 # 链接(可选:facebook,twitter,github,wechat,email)
 links:
-    facebook: /
-    twitter: /
-    github: /
-    wechat: /img/logo.png
-    email: mailto:xxxx@gmail.com
+    # facebook: /
+    # twitter: /
+    # github: /
+    # wechat: /img/logo.png
+    # email: mailto:xxxx@gmail.com
   
 # 备案
 beian: 
