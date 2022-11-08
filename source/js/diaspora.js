@@ -106,7 +106,7 @@ var Diaspora = {
                 }
             }, 0)
             var math = document.getElementById("single")
-            MathJax.Hub.Queue(["Typeset", MathJax.Hub, math])
+            //MathJax.Hub.Queue(["Typeset", MathJax.Hub, math])
         })
     },
     preview: function() {
